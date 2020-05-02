@@ -1,0 +1,10 @@
+
+
+LANDING PAGE
+
+    anchors:
+        - about me
+        - other projects
+        - quotes
+        - juice wrld
+        - other music
